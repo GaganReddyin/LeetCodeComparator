@@ -7,7 +7,7 @@ function Compare() {
     const [username1, setUsername1] = useState('');
     const [username2, setUsername2] = useState('');
     const [data1, setData1] = useState({});
-    const [data2, setData2] = useState({});
+    const [data2, setData2] = useState({}); 
     const [loading1, setLoading1] = useState(false);
     const [loading2, setLoading2] = useState(false);
     const [error1, setError1] = useState(null);
