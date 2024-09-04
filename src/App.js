@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css'
+import './App.css'     
 import Header from './Component/Header';
 import Analyze from './Component/Analyze';
 import Compare from './Component/Compare';
