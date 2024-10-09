@@ -4,7 +4,7 @@ The LeetCodeComparator is a web application built using React.js that allows use
 
 ## Web App Link
 
-Try out this web app now: https://leet-code-comparator-by-gaganreddy.vercel.app/ 
+Try out this web app now: https://leet-code-comparator-by-gaganreddy.vercel.app/  
 
 ## Features
 
